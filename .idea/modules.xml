@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingAndroid2Examples/AIDLDemo/AIDLDemo.iml" filepath="$PROJECT_DIR$/ProgrammingAndroid2Examples/AIDLDemo/AIDLDemo.iml" group="ProgrammingAndroid2Examples" />
       <module fileurl="file://$PROJECT_DIR$/legacy/AccelerometerPlay/AccelerometerPlay.iml" filepath="$PROJECT_DIR$/legacy/AccelerometerPlay/AccelerometerPlay.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/legacy/ActionBarCompat/ActionBarCompat.iml" filepath="$PROJECT_DIR$/legacy/ActionBarCompat/ActionBarCompat.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/ui/ActionBarCompat-Basic/ActionBarCompat-BasicSample/src/main/ActionBarCompat-Basic.iml" filepath="$PROJECT_DIR$/ui/ActionBarCompat-Basic/ActionBarCompat-BasicSample/src/main/ActionBarCompat-Basic.iml" group="ui" />
@@ -13,9 +14,12 @@
       <module fileurl="file://$PROJECT_DIR$/legacy/USB/AdbTest/AdbTest.iml" filepath="$PROJECT_DIR$/legacy/USB/AdbTest/AdbTest.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/ui/AdvancedImmersiveMode/AdvancedImmersiveModeSample/src/main/AdvancedImmersiveMode.iml" filepath="$PROJECT_DIR$/ui/AdvancedImmersiveMode/AdvancedImmersiveModeSample/src/main/AdvancedImmersiveMode.iml" group="ui" />
       <module fileurl="file://$PROJECT_DIR$/legacy/AndroidBeamDemo/AndroidBeamDemo.iml" filepath="$PROJECT_DIR$/legacy/AndroidBeamDemo/AndroidBeamDemo.iml" group="legacy" />
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingAndroid2Examples/AndroidUIDemo/AndroidUIDemo.iml" filepath="$PROJECT_DIR$/ProgrammingAndroid2Examples/AndroidUIDemo/AndroidUIDemo.iml" group="ProgrammingAndroid2Examples" />
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingAndroid2Examples/AndroidViewDemo/AndroidViewDemo.iml" filepath="$PROJECT_DIR$/ProgrammingAndroid2Examples/AndroidViewDemo/AndroidViewDemo.iml" group="ProgrammingAndroid2Examples" />
       <module fileurl="file://$PROJECT_DIR$/legacy/ApiDemos/ApiDemos.iml" filepath="$PROJECT_DIR$/legacy/ApiDemos/ApiDemos.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/legacy/AppNavigation/AppNavigation.iml" filepath="$PROJECT_DIR$/legacy/AppNavigation/AppNavigation.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/content/AppRestrictions/AppRestrictionsSample/src/main/AppRestrictionsSample.iml" filepath="$PROJECT_DIR$/content/AppRestrictions/AppRestrictionsSample/src/main/AppRestrictionsSample.iml" group="content" />
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingAndroid2Examples/AsyncTaskDemo/AsyncTaskDemo.iml" filepath="$PROJECT_DIR$/ProgrammingAndroid2Examples/AsyncTaskDemo/AsyncTaskDemo.iml" group="ProgrammingAndroid2Examples" />
       <module fileurl="file://$PROJECT_DIR$/legacy/BackupRestore/BackupRestore.iml" filepath="$PROJECT_DIR$/legacy/BackupRestore/BackupRestore.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/ui/BasicAccessibility/BasicAccessibilitySample/src/main/BasicAccessibility.iml" filepath="$PROJECT_DIR$/ui/BasicAccessibility/BasicAccessibilitySample/src/main/BasicAccessibility.iml" group="ui" />
       <module fileurl="file://$PROJECT_DIR$/security/BasicAndroidKeyStore/BasicAndroidKeyStoreSample/src/main/BasicAndroidKeyStore.iml" filepath="$PROJECT_DIR$/security/BasicAndroidKeyStore/BasicAndroidKeyStoreSample/src/main/BasicAndroidKeyStore.iml" group="security" />
@@ -35,16 +39,21 @@
       <module fileurl="file://$PROJECT_DIR$/connectivity/BluetoothLeGatt/BluetoothLeGattSample/src/main/BluetoothLeGattSample.iml" filepath="$PROJECT_DIR$/connectivity/BluetoothLeGatt/BluetoothLeGattSample/src/main/BluetoothLeGattSample.iml" group="connectivity" />
       <module fileurl="file://$PROJECT_DIR$/ui/BorderlessButtons/BorderlessButtonsSample/src/main/BorderlessButtons.iml" filepath="$PROJECT_DIR$/ui/BorderlessButtons/BorderlessButtonsSample/src/main/BorderlessButtons.iml" group="ui" />
       <module fileurl="file://$PROJECT_DIR$/connectivity/CardEmulation/CardEmulationSample/src/main/CardEmulation.iml" filepath="$PROJECT_DIR$/connectivity/CardEmulation/CardEmulationSample/src/main/CardEmulation.iml" group="connectivity" />
-      <module fileurl="file://$PROJECT_DIR$/connectivity/CardReader/CardReaderSample/src/main/CardReaderSample.iml" filepath="$PROJECT_DIR$/connectivity/CardReader/CardReaderSample/src/main/CardReaderSample.iml" group="connectivity" />
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingAndroid2Examples/ClientDemo/ClientDemo.iml" filepath="$PROJECT_DIR$/ProgrammingAndroid2Examples/ClientDemo/ClientDemo.iml" group="ProgrammingAndroid2Examples" />
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingAndroid2Examples/ClientDemoServer/ClientDemoServer.iml" filepath="$PROJECT_DIR$/ProgrammingAndroid2Examples/ClientDemoServer/ClientDemoServer.iml" group="ProgrammingAndroid2Examples" />
       <module fileurl="file://$PROJECT_DIR$/legacy/ContactManager/ContactManager.iml" filepath="$PROJECT_DIR$/legacy/ContactManager/ContactManager.iml" group="legacy" />
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingAndroid2Examples/ContactViewer/ContactViewer.iml" filepath="$PROJECT_DIR$/ProgrammingAndroid2Examples/ContactViewer/ContactViewer.iml" group="ProgrammingAndroid2Examples" />
       <module fileurl="file://$PROJECT_DIR$/legacy/CrossCompatibility/CrossCompatibility.iml" filepath="$PROJECT_DIR$/legacy/CrossCompatibility/CrossCompatibility.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/legacy/CubeLiveWallpaper/CubeLiveWallpaper.iml" filepath="$PROJECT_DIR$/legacy/CubeLiveWallpaper/CubeLiveWallpaper.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/ui/CustomChoiceList/CustomChoiceListSample/src/main/CustomChoiceList.iml" filepath="$PROJECT_DIR$/ui/CustomChoiceList/CustomChoiceListSample/src/main/CustomChoiceList.iml" group="ui" />
       <module fileurl="file://$PROJECT_DIR$/ui/CustomNotifications/CustomNotificationsSample/src/main/CustomNotifications.iml" filepath="$PROJECT_DIR$/ui/CustomNotifications/CustomNotificationsSample/src/main/CustomNotifications.iml" group="ui" />
-      <module fileurl="file://$PROJECT_DIR$/ui/CustomTransition/CustomTransitionSample/src/main/CustomTransition.iml" filepath="$PROJECT_DIR$/ui/CustomTransition/CustomTransitionSample/src/main/CustomTransition.iml" group="ui" />
-      <module fileurl="file://$PROJECT_DIR$/ui/DisplayingBitmaps/DisplayingBitmapsSample/src/main/DisplayingBitmaps.iml" filepath="$PROJECT_DIR$/ui/DisplayingBitmaps/DisplayingBitmapsSample/src/main/DisplayingBitmaps.iml" group="ui" />
       <module fileurl="file://$PROJECT_DIR$/ui/DoneBar/DoneBarSample/src/main/DoneBar.iml" filepath="$PROJECT_DIR$/ui/DoneBar/DoneBarSample/src/main/DoneBar.iml" group="ui" />
-      <module fileurl="file://$PROJECT_DIR$/ui/FragmentTransition/FragmentTransitionSample/src/main/FragmentTransition.iml" filepath="$PROJECT_DIR$/ui/FragmentTransition/FragmentTransitionSample/src/main/FragmentTransition.iml" group="ui" />
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingAndroid2Examples/FillListTask/FillListTask.iml" filepath="$PROJECT_DIR$/ProgrammingAndroid2Examples/FillListTask/FillListTask.iml" group="ProgrammingAndroid2Examples" />
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingAndroid2Examples/FinchChat/FinchChat.iml" filepath="$PROJECT_DIR$/ProgrammingAndroid2Examples/FinchChat/FinchChat.iml" group="ProgrammingAndroid2Examples" />
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingAndroid2Examples/FinchFramework/FinchFramework.iml" filepath="$PROJECT_DIR$/ProgrammingAndroid2Examples/FinchFramework/FinchFramework.iml" group="ProgrammingAndroid2Examples" />
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingAndroid2Examples/FinchLifecycle/FinchLifecycle.iml" filepath="$PROJECT_DIR$/ProgrammingAndroid2Examples/FinchLifecycle/FinchLifecycle.iml" group="ProgrammingAndroid2Examples" />
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingAndroid2Examples/FinchLifecycleBackport/FinchLifecycleBackport.iml" filepath="$PROJECT_DIR$/ProgrammingAndroid2Examples/FinchLifecycleBackport/FinchLifecycleBackport.iml" group="ProgrammingAndroid2Examples" />
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingAndroid2Examples/FinchVideo/FinchVideo.iml" filepath="$PROJECT_DIR$/ProgrammingAndroid2Examples/FinchVideo/FinchVideo.iml" group="ProgrammingAndroid2Examples" />
       <module fileurl="file://$PROJECT_DIR$/legacy/GestureBuilder/GestureBuilder.iml" filepath="$PROJECT_DIR$/legacy/GestureBuilder/GestureBuilder.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/legacy/RenderScript/HelloCompute/HelloCompute.iml" filepath="$PROJECT_DIR$/legacy/RenderScript/HelloCompute/HelloCompute.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/legacy/HelloEffects/HelloEffects.iml" filepath="$PROJECT_DIR$/legacy/HelloEffects/HelloEffects.iml" group="legacy" />
@@ -52,14 +61,17 @@
       <module fileurl="file://$PROJECT_DIR$/legacy/Home/Home.iml" filepath="$PROJECT_DIR$/legacy/Home/Home.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/legacy/HoneycombGallery/HoneycombGallery.iml" filepath="$PROJECT_DIR$/legacy/HoneycombGallery/HoneycombGallery.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/ui/HorizontalPaging/HorizontalPagingSample/src/main/HorizontalPaging.iml" filepath="$PROJECT_DIR$/ui/HorizontalPaging/HorizontalPagingSample/src/main/HorizontalPaging.iml" group="ui" />
-      <module fileurl="file://$PROJECT_DIR$/ui/ImmersiveMode/ImmersiveModeSample/src/main/ImmersiveMode.iml" filepath="$PROJECT_DIR$/ui/ImmersiveMode/ImmersiveModeSample/src/main/ImmersiveMode.iml" group="ui" />
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingAndroid2Examples/JSerializable/JSerializable.iml" filepath="$PROJECT_DIR$/ProgrammingAndroid2Examples/JSerializable/JSerializable.iml" group="ProgrammingAndroid2Examples" />
       <module fileurl="file://$PROJECT_DIR$/legacy/JetBoy/JetBoy.iml" filepath="$PROJECT_DIR$/legacy/JetBoy/JetBoy.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/legacy/KeyChainDemo/KeyChainDemo.iml" filepath="$PROJECT_DIR$/legacy/KeyChainDemo/KeyChainDemo.iml" group="legacy" />
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingAndroid2Examples/LifecycleDemos/LifecycleDemos.iml" filepath="$PROJECT_DIR$/ProgrammingAndroid2Examples/LifecycleDemos/LifecycleDemos.iml" group="ProgrammingAndroid2Examples" />
       <module fileurl="file://$PROJECT_DIR$/legacy/LunarLander/LunarLander.iml" filepath="$PROJECT_DIR$/legacy/LunarLander/LunarLander.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/media/MediaRecorder/MediaRecorderSample/src/main/MediaRecorder.iml" filepath="$PROJECT_DIR$/media/MediaRecorder/MediaRecorderSample/src/main/MediaRecorder.iml" group="media" />
       <module fileurl="file://$PROJECT_DIR$/media/MediaRouter/MediaRouterSample/src/main/MediaRouter.iml" filepath="$PROJECT_DIR$/media/MediaRouter/MediaRouterSample/src/main/MediaRouter.iml" group="media" />
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingAndroid2Examples/MicroJobs/MicroJobs.iml" filepath="$PROJECT_DIR$/ProgrammingAndroid2Examples/MicroJobs/MicroJobs.iml" group="ProgrammingAndroid2Examples" />
       <module fileurl="file://$PROJECT_DIR$/legacy/USB/MissileLauncher/MissileLauncher.iml" filepath="$PROJECT_DIR$/legacy/USB/MissileLauncher/MissileLauncher.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/legacy/MultiResolution/MultiResolution.iml" filepath="$PROJECT_DIR$/legacy/MultiResolution/MultiResolution.iml" group="legacy" />
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingAndroid2Examples/NDKDemo/NDKDemo.iml" filepath="$PROJECT_DIR$/ProgrammingAndroid2Examples/NDKDemo/NDKDemo.iml" group="ProgrammingAndroid2Examples" />
       <module fileurl="file://$PROJECT_DIR$/connectivity/NetworkConnect/NetworkConnectSample/src/main/NetworkConnectSample.iml" filepath="$PROJECT_DIR$/connectivity/NetworkConnect/NetworkConnectSample/src/main/NetworkConnectSample.iml" group="connectivity" />
       <module fileurl="file://$PROJECT_DIR$/legacy/NotePad/NotePad.iml" filepath="$PROJECT_DIR$/legacy/NotePad/NotePad.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/legacy/RandomMusicPlayer/RandomMusicPlayer.iml" filepath="$PROJECT_DIR$/legacy/RandomMusicPlayer/RandomMusicPlayer.iml" group="legacy" />
@@ -67,7 +79,11 @@
       <module fileurl="file://$PROJECT_DIR$/background/RepeatingAlarm/RepeatingAlarmSample/src/main/RepeatingAlarmSample.iml" filepath="$PROJECT_DIR$/background/RepeatingAlarm/RepeatingAlarmSample/src/main/RepeatingAlarmSample.iml" group="background" />
       <module fileurl="file://$PROJECT_DIR$/legacy/SpellChecker/SampleSpellCheckerService/SampleSpellCheckerService.iml" filepath="$PROJECT_DIR$/legacy/SpellChecker/SampleSpellCheckerService/SampleSpellCheckerService.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/legacy/SampleSyncAdapter/SampleSyncAdapter.iml" filepath="$PROJECT_DIR$/legacy/SampleSyncAdapter/SampleSyncAdapter.iml" group="legacy" />
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingAndroid2Examples/SearchDemo/SearchDemo.iml" filepath="$PROJECT_DIR$/ProgrammingAndroid2Examples/SearchDemo/SearchDemo.iml" group="ProgrammingAndroid2Examples" />
       <module fileurl="file://$PROJECT_DIR$/legacy/SearchableDictionary/SearchableDictionary.iml" filepath="$PROJECT_DIR$/legacy/SearchableDictionary/SearchableDictionary.iml" group="legacy" />
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingAndroid2Examples/SensorDemos/SensorDemos.iml" filepath="$PROJECT_DIR$/ProgrammingAndroid2Examples/SensorDemos/SensorDemos.iml" group="ProgrammingAndroid2Examples" />
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingAndroid2Examples/SharedListTask/SharedListTask.iml" filepath="$PROJECT_DIR$/ProgrammingAndroid2Examples/SharedListTask/SharedListTask.iml" group="ProgrammingAndroid2Examples" />
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingAndroid2Examples/SimpleFragment/SimpleFragment.iml" filepath="$PROJECT_DIR$/ProgrammingAndroid2Examples/SimpleFragment/SimpleFragment.iml" group="ProgrammingAndroid2Examples" />
       <module fileurl="file://$PROJECT_DIR$/legacy/SipDemo/SipDemo.iml" filepath="$PROJECT_DIR$/legacy/SipDemo/SipDemo.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/legacy/SkeletonApp/SkeletonApp.iml" filepath="$PROJECT_DIR$/legacy/SkeletonApp/SkeletonApp.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/ui/SlidingTabsBasic/SlidingTabsBasicSample/src/main/SlidingTabsBasic.iml" filepath="$PROJECT_DIR$/ui/SlidingTabsBasic/SlidingTabsBasicSample/src/main/SlidingTabsBasic.iml" group="ui" />
@@ -76,8 +92,6 @@
       <module fileurl="file://$PROJECT_DIR$/legacy/SoftKeyboard/SoftKeyboard.iml" filepath="$PROJECT_DIR$/legacy/SoftKeyboard/SoftKeyboard.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/legacy/Spinner/Spinner.iml" filepath="$PROJECT_DIR$/legacy/Spinner/Spinner.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/legacy/SpinnerTest/SpinnerTest.iml" filepath="$PROJECT_DIR$/legacy/SpinnerTest/SpinnerTest.iml" group="legacy" />
-      <module fileurl="file://$PROJECT_DIR$/content/StorageClient/StorageClientSample/src/main/StorageClientSample.iml" filepath="$PROJECT_DIR$/content/StorageClient/StorageClientSample/src/main/StorageClientSample.iml" group="content" />
-      <module fileurl="file://$PROJECT_DIR$/content/StorageProvider/StorageProviderSample/src/main/StorageProvider.iml" filepath="$PROJECT_DIR$/content/StorageProvider/StorageProviderSample/src/main/StorageProvider.iml" group="content" />
       <module fileurl="file://$PROJECT_DIR$/ui/SwipeRefreshLayoutBasic/SwipeRefreshLayoutBasicSample/src/main/SwipeRefreshLayoutBasic.iml" filepath="$PROJECT_DIR$/ui/SwipeRefreshLayoutBasic/SwipeRefreshLayoutBasicSample/src/main/SwipeRefreshLayoutBasic.iml" group="ui" />
       <module fileurl="file://$PROJECT_DIR$/ui/SwipeRefreshListFragment/SwipeRefreshListFragmentSample/src/main/SwipeRefreshListFragment.iml" filepath="$PROJECT_DIR$/ui/SwipeRefreshListFragment/SwipeRefreshListFragmentSample/src/main/SwipeRefreshListFragment.iml" group="ui" />
       <module fileurl="file://$PROJECT_DIR$/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/src/main/SwipeRefreshMultipleViews.iml" filepath="$PROJECT_DIR$/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/src/main/SwipeRefreshMultipleViews.iml" group="ui" />
@@ -87,6 +101,7 @@
       <module fileurl="file://$PROJECT_DIR$/legacy/TicTacToeMain/TicTacToeMain.iml" filepath="$PROJECT_DIR$/legacy/TicTacToeMain/TicTacToeMain.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/legacy/ToyVpn/ToyVpn.iml" filepath="$PROJECT_DIR$/legacy/ToyVpn/ToyVpn.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/legacy/TtsEngine/TtsEngine.iml" filepath="$PROJECT_DIR$/legacy/TtsEngine/TtsEngine.iml" group="legacy" />
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingAndroid2Examples/UIFramework/UIFramework.iml" filepath="$PROJECT_DIR$/ProgrammingAndroid2Examples/UIFramework/UIFramework.iml" group="ProgrammingAndroid2Examples" />
       <module fileurl="file://$PROJECT_DIR$/legacy/UiAutomator/UiAutomator.iml" filepath="$PROJECT_DIR$/legacy/UiAutomator/UiAutomator.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/legacy/VoiceRecognitionService/VoiceRecognitionService.iml" filepath="$PROJECT_DIR$/legacy/VoiceRecognitionService/VoiceRecognitionService.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/legacy/VoicemailProviderDemo/VoicemailProviderDemo.iml" filepath="$PROJECT_DIR$/legacy/VoicemailProviderDemo/VoicemailProviderDemo.iml" group="legacy" />

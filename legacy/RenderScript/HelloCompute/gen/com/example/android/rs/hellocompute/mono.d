@@ -1,7 +1,7 @@
 /*___Generated_by_IDEA___*/
 
 D:\workspace\android-samples\legacy\RenderScript\HelloCompute\res\raw\mono.bc \
-  C:\Users\dmitrykolesnikovich\AppData\Local\Temp\android_renderscript_autogeneration4649853059739191300tmp\com\example\android\rs\hellocompute\ScriptC_mono.java: \
+  C:\Users\dmitrykolesnikovich\AppData\Local\Temp\android_renderscript_autogeneration8046508672961065335tmp\com\example\android\rs\hellocompute\ScriptC_mono.java: \
   D:\workspace\android-samples\legacy\RenderScript\HelloCompute\src\com\example\android\rs\hellocompute\mono.rs \
   C:\Program\ Files\ (x86)\Android\android-sdk\build-tools\20.0.0\renderscript\include\rs_core.rsh \
   C:\Program\ Files\ (x86)\Android\android-sdk\build-tools\20.0.0\renderscript\include/rs_types.rsh \
