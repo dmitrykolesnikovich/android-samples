@@ -62,6 +62,7 @@
       <module fileurl="file://$PROJECT_DIR$/legacy/HoneycombGallery/HoneycombGallery.iml" filepath="$PROJECT_DIR$/legacy/HoneycombGallery/HoneycombGallery.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/ui/HorizontalPaging/HorizontalPagingSample/src/main/HorizontalPaging.iml" filepath="$PROJECT_DIR$/ui/HorizontalPaging/HorizontalPagingSample/src/main/HorizontalPaging.iml" group="ui" />
       <module fileurl="file://$PROJECT_DIR$/ProgrammingAndroid2Examples/JSerializable/JSerializable.iml" filepath="$PROJECT_DIR$/ProgrammingAndroid2Examples/JSerializable/JSerializable.iml" group="ProgrammingAndroid2Examples" />
+      <module fileurl="file://$PROJECT_DIR$/other/JavaApp/JavaApp.iml" filepath="$PROJECT_DIR$/other/JavaApp/JavaApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/legacy/JetBoy/JetBoy.iml" filepath="$PROJECT_DIR$/legacy/JetBoy/JetBoy.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/legacy/KeyChainDemo/KeyChainDemo.iml" filepath="$PROJECT_DIR$/legacy/KeyChainDemo/KeyChainDemo.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/ProgrammingAndroid2Examples/LifecycleDemos/LifecycleDemos.iml" filepath="$PROJECT_DIR$/ProgrammingAndroid2Examples/LifecycleDemos/LifecycleDemos.iml" group="ProgrammingAndroid2Examples" />
@@ -71,6 +72,7 @@
       <module fileurl="file://$PROJECT_DIR$/ProgrammingAndroid2Examples/MicroJobs/MicroJobs.iml" filepath="$PROJECT_DIR$/ProgrammingAndroid2Examples/MicroJobs/MicroJobs.iml" group="ProgrammingAndroid2Examples" />
       <module fileurl="file://$PROJECT_DIR$/legacy/USB/MissileLauncher/MissileLauncher.iml" filepath="$PROJECT_DIR$/legacy/USB/MissileLauncher/MissileLauncher.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/legacy/MultiResolution/MultiResolution.iml" filepath="$PROJECT_DIR$/legacy/MultiResolution/MultiResolution.iml" group="legacy" />
+      <module fileurl="file://$PROJECT_DIR$/other/MyApp/MyApp.iml" filepath="$PROJECT_DIR$/other/MyApp/MyApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProgrammingAndroid2Examples/NDKDemo/NDKDemo.iml" filepath="$PROJECT_DIR$/ProgrammingAndroid2Examples/NDKDemo/NDKDemo.iml" group="ProgrammingAndroid2Examples" />
       <module fileurl="file://$PROJECT_DIR$/connectivity/NetworkConnect/NetworkConnectSample/src/main/NetworkConnectSample.iml" filepath="$PROJECT_DIR$/connectivity/NetworkConnect/NetworkConnectSample/src/main/NetworkConnectSample.iml" group="connectivity" />
       <module fileurl="file://$PROJECT_DIR$/legacy/NotePad/NotePad.iml" filepath="$PROJECT_DIR$/legacy/NotePad/NotePad.iml" group="legacy" />
@@ -113,6 +115,7 @@
       <module fileurl="file://$PROJECT_DIR$/legacy/WiktionarySimple/WiktionarySimple.iml" filepath="$PROJECT_DIR$/legacy/WiktionarySimple/WiktionarySimple.iml" group="legacy" />
       <module fileurl="file://$PROJECT_DIR$/legacy/XmlAdapters/XmlAdapters.iml" filepath="$PROJECT_DIR$/legacy/XmlAdapters/XmlAdapters.iml" group="legacy" />
       <module fileurl="file://$android-sdk$/extras/android/support/v7/appcompat/appcompat.iml" filepath="$android-sdk$/extras/android/support/v7/appcompat/appcompat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/downloadqueue/downloadqueue.iml" filepath="$PROJECT_DIR$/downloadqueue/downloadqueue.iml" />
     </modules>
   </component>
 </project>
